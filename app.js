@@ -4,7 +4,7 @@ const port = 3000;
 
 // Rota 1 - Página inicial
 app.get('/', (req, res) => {
-  res.send('<h1>Bem-vindo!</h1>');
+  res.send('<h1>Bem-vindo !</h1>');
 });
 
 // Rota 2 - Página Sobre
